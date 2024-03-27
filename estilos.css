@@ -1,0 +1,33 @@
+body{
+    background: beige;
+}
+header{
+    font-family: cursive;
+    font-size: 50px;
+    color: rgb(52, 97, 28);
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    color: white; 
+    padding: 10px; 
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    color: green;
+    font-family: cursive;
+    font-size: 25px;
+}
+li:hover {
+    background-color: rgb(16, 232, 24);
+}
+h1{
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+}
